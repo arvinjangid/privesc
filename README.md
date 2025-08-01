@@ -1,7 +1,10 @@
-# privesc
-Tool that helps in privelege escalation in linux environment
-privsec is created to help in the phase of privilege escalation. It gathers information and suggests the loophole in the system
+# Linux Enumeration Script
 
-Contact 
-Arvin Sharma
-twitter - https://twitter.com/arvinj581/
+A Bash script to gather detailed system information, including user details, file permissions, running services, and security-relevant files.
+
+## Usage
+
+Run the script without any arguments:
+
+```bash
+./script.sh
